@@ -6,5 +6,5 @@ node_js:
    - npm install
    
    script:
-   - echo "Instrucciones"
+   - echo "Instrucciones."
    - npm build
