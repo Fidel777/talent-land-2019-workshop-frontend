@@ -2,6 +2,7 @@
   "name": "talent-land-2019-cv",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://xotl.github.com/xolt/talend-land-2019-workshop-fronted/"
   "dependencies": {
     "axios": "^0.18.0",
     "material-ui": "^0.17.0",
